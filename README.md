@@ -27,3 +27,9 @@ Building AI-powered solutions using Python, Machine Learning, Deep Learning, and
 - LinkedIn
 - LeetCode
 - GitHub
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekkantibhavaniprasanna-beep&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nekkantibhavaniprasanna-beep)
