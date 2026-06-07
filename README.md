@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Bhavani Prasanna
 
-<!--
-**nekkantibhavaniprasanna-beep/nekkantibhavaniprasanna-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring AI Engineer | B.Tech AIML Student
 
-Here are some ideas to get you started:
+Building AI-powered solutions using Python, Machine Learning, Deep Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+
+### Projects
+- AI Powered Medical Chatbot
+- Object Detection using YOLOv8
+- Placement Prediction System
+- GenAI Quant
+
+### Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- Generative AI
+- Agentic AI
+
+### Connect With Me
+- LinkedIn
+- LeetCode
+- GitHub
