@@ -1,4 +1,4 @@
-
+![Banner](Banner.jpeg)
 # Hi, I'm Bhavani Prasanna
 
 ## Aspiring AI Engineer | B.Tech AIML Student
