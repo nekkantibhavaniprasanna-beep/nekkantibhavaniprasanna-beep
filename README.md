@@ -6,7 +6,6 @@ https://ai-ml-professional-p-n3zk.bolt.host
 
 ## Aspiring AI Engineer | B.Tech AIML Student
 
-Building AI-powered solutions using Python, Machine Learning, Deep Learning, and Generative AI.
 
 # 💫 About Me:
 🔭 Building AI-powered solutions using Python, Machine Learning, Deep Learning, and Generative AI<br><br>👯 Open to collaborating on AI, ML, and Open Source projects<br><br>🌱 Currently learning DSA, Agentic AI, RAG, and Advanced Machine Learning<br><br>💬 Ask me about Python, SQL, Machine Learning, Git & GitHub<br><br>⚡ Consistent learner focused on creating impactful AI applications
